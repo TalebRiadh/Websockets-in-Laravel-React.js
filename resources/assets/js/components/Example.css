@@ -1,0 +1,43 @@
+
+.media-left,
+.media > .pull-left {
+  padding-right: 10px;
+}
+
+.media-left,
+.media-right,
+.media-body {
+  display: table-cell;
+  vertical-align: top;
+}
+.media-object {
+    display: block;
+  }
+  
+.media-object.img-thumbnail {
+    max-width: none;
+  }
+
+  .media,
+  .media-body {
+    overflow: hidden;
+    zoom: 1;
+  }
+  
+  .media-body {
+    width: 10000px;
+  }
+  .media-heading {
+    margin-top: 0;
+    margin-bottom: 5px;
+  }  
+.media{
+    margin-top:20px;
+}
+
+.button{
+    margin-top:10px
+}
+.div-com{
+    margin-bottom:50px;
+}
